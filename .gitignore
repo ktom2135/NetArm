@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NetArm.Win/v15
+/NetArm.Core/bin/Debug
+/NetArm.Core/obj/Debug
+/NetArm.Win/bin/Debug
+/NetArm.Win/obj/Debug
